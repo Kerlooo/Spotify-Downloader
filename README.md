@@ -3,7 +3,7 @@
 - Python 3.7 >=
 - spotdl
 
-## How to use it
+# How to use it
 ## Debian
 ```bash
 git clone https://github.com/Kerlooo/Spotify-Downloader.git
