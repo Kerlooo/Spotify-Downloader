@@ -1,0 +1,3 @@
+[console_scripts]
+syncedlyrics=syncedlyrics.cli:cli_handler
+
