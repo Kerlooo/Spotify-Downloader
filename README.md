@@ -1,4 +1,6 @@
 # Spotify Downloader
+# NOT WORKING RN
+
 # Requirements
 - Python 3.7 >=
 - spotdl
