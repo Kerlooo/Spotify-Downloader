@@ -10,7 +10,9 @@
 ```bash
 git clone https://github.com/Kerlooo/Spotify-Downloader.git
 cd Spotify-Downloader
+python3 -m venv myenv
 source myenv/bin/activate
+pip install spotdl
 python3 downloader.py
 ```
 

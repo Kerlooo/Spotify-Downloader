@@ -1,2 +1,0 @@
-[console_scripts]
-kakasi = pykakasi.cli:cli_main

@@ -1,0 +1,20 @@
+# Ambiente virtuale
+myenv/
+
+# Cartella dei download
+song/
+
+# File temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+
+# File di log
+*.log
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File di configurazione personali (opzionale)
+.env
